@@ -1,3 +1,3 @@
 # DEMO
 
-seme describtion!
+some describtion!
